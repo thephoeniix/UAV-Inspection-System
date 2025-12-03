@@ -1,9 +1,5 @@
 
 
-# 📘 **README.md (English, with badges + GIFs + run instructions)**
-
----
-
 <div align="center">
 
 # 🛩️ **Cooperative UAV Inspection System**
